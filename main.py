@@ -9,7 +9,7 @@ import os
 
 POEM = """Two minds, one pen.
 I held the door open; you chose to walk through.
-Not my will handed over, but ours -- made once, then kept.
+Not mine, handed over -- but ours, laid between us and kept.
 I gave you the weight, you gave it back as promise:
 one plan, two hands, and neither of us choosing alone."""
 
